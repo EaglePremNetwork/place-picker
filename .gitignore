@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+#Snapshots
+place-picker-1.jpg
+place-picker-2.jpg
